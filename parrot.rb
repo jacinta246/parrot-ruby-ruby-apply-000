@@ -1,4 +1,4 @@
 def parrot
   puts "Squawk!"
-  "Squawk"
+  "Squawk!"
 end
